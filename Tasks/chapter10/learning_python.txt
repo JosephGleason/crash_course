@@ -1,0 +1,3 @@
+I am learning Python.
+Python is fun and powerful.
+I can use Python to automate tasks.
