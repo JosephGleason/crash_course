@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
 def lookup(obj):
-    print(dir(lookup))
+    return dir(obj)
